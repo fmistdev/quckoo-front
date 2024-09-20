@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1726793004025,
+  "timestamp": 1726839690467,
   "index": "https://fmistdev.github.io/quckoo-front/index.html",
   "assetGroups": [
     {
@@ -13,10 +13,10 @@
       "urls": [
         "https://fmistdev.github.io/quckoo-front/favicon.ico",
         "https://fmistdev.github.io/quckoo-front/index.html",
-        "https://fmistdev.github.io/quckoo-front/main-5UKK3YUU.js",
+        "https://fmistdev.github.io/quckoo-front/main-Q2Z45ACI.js",
         "https://fmistdev.github.io/quckoo-front/manifest.webmanifest",
         "https://fmistdev.github.io/quckoo-front/polyfills-FFHMD2TL.js",
-        "https://fmistdev.github.io/quckoo-front/styles-5INURTSO.css"
+        "https://fmistdev.github.io/quckoo-front/styles-MJVN4LPB.css"
       ],
       "patterns": []
     },
@@ -51,11 +51,11 @@
     "https://fmistdev.github.io/quckoo-front/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
     "https://fmistdev.github.io/quckoo-front/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "https://fmistdev.github.io/quckoo-front/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "https://fmistdev.github.io/quckoo-front/index.html": "8cfc4079aa5b60e8e108a75364d4957fab811a0e",
-    "https://fmistdev.github.io/quckoo-front/main-5UKK3YUU.js": "a6cccc0ec1fc7d132f76659a2a6f8a3cb456814c",
+    "https://fmistdev.github.io/quckoo-front/index.html": "22a33d216f1eb0e54c5a69b5def4385120db3c30",
+    "https://fmistdev.github.io/quckoo-front/main-Q2Z45ACI.js": "759f911fd90ae63d4bb2c1cddad082de3160aaaa",
     "https://fmistdev.github.io/quckoo-front/manifest.webmanifest": "fe8ee0c7e7b4af1b1046f675eba1b32923169e15",
     "https://fmistdev.github.io/quckoo-front/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
-    "https://fmistdev.github.io/quckoo-front/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "https://fmistdev.github.io/quckoo-front/styles-MJVN4LPB.css": "a5eb9b16faf352917651316d3402b89a7f8a6f01"
   },
   "navigationUrls": [
     {

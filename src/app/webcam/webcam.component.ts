@@ -21,7 +21,10 @@ export class WebcamComponent implements OnInit {
 
       const constraints = {
         video: {
-          facingMode: { ideal: 'environment' } // 'environment' utilise la caméra arrière
+          facingMode: { ideal: 'environment' }, // 'environment' utilise la caméra arrière
+          width: { min: 640, ideal: 1280, max: 1920 },  // Plage pour la largeur
+          height: { min: 480, ideal: 720, max: 1080 },  // Plage pour la hauteur
+          frameRate: { min: 15, ideal: 30, max: 60 },   // Taux de rafraîchissement
         },
         audio: false,
       };

@@ -18,7 +18,15 @@ export class WebcamComponent implements OnInit {
 
   startCamera() {
     if (navigator.mediaDevices && navigator.mediaDevices.getUserMedia) {
-      navigator.mediaDevices.getUserMedia({ video: true, audio: false })
+
+      const constraints = {
+        video: {
+          facingMode: { ideal: 'environment' } // 'environment' utilise la caméra arrière
+        },
+        audio: false,
+      };
+      
+      navigator.mediaDevices.getUserMedia(constraints)
         .then(stream => {
           this.videoElement.nativeElement.srcObject = stream;
           this.videoElement.nativeElement.play();

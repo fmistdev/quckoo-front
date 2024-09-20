@@ -3,6 +3,12 @@
   }
   
   video {
+    width: 100%; /* Rend la vidéo responsive */
+    max-width: 640px; /* Fixe une largeur maximale pour les plus grands écrans */
+    height: auto;
     border: 2px solid black;
-    width: 80%;
+  }
+
+  .controls {
+    margin-top: 10px;
   }
